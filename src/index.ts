@@ -6,3 +6,6 @@ export { distance };
 
 import { displacement } from './displacement';
 export { displacement };
+
+import { centroid } from './centroid';
+export { centroid };
