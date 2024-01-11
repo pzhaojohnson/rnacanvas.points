@@ -9,3 +9,6 @@ export { displacement };
 
 import { centroid } from './centroid';
 export { centroid };
+
+import { midpoint } from './midpoint';
+export { midpoint };
