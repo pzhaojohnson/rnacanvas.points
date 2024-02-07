@@ -1,6 +1,6 @@
 {
   "name": "@rnacanvas/points",
-  "version": "1.7.0",
+  "version": "1.8.0",
   "description": "Operations on 2D points",
   "main": "./dist/index.js",
   "scripts": {
@@ -21,6 +21,7 @@
     "webpack-cli": "^5.1.4"
   },
   "dependencies": {
-    "@rnacanvas/math": "^1.2.0"
+    "@rnacanvas/math": "^1.2.0",
+    "@rnacanvas/vectors": "^1.2.0"
   }
 }
