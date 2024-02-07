@@ -23,5 +23,6 @@ module.exports = {
       name: 'points',
       type: 'umd',
     },
+    clean: true,
   },
 };
