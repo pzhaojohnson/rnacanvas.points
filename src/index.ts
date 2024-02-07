@@ -4,6 +4,9 @@ export { Point };
 import { distance } from './distance';
 export { distance };
 
+import { areWithin } from './areWithin';
+export { areWithin };
+
 import { displacement } from './displacement';
 export { displacement };
 
