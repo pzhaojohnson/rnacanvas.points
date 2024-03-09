@@ -1,6 +1,9 @@
 import { Point } from './Point';
 export { Point };
 
+import { isPoint } from './isPoint';
+export { isPoint };
+
 import { deepCopy } from './deepCopy';
 export { deepCopy };
 

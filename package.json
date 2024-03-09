@@ -1,6 +1,6 @@
 {
   "name": "@rnacanvas/points",
-  "version": "1.10.0",
+  "version": "1.11.0",
   "description": "Operations on 2D points",
   "main": "./dist/index.js",
   "scripts": {
@@ -22,6 +22,7 @@
   },
   "dependencies": {
     "@rnacanvas/math": "^1.2.0",
+    "@rnacanvas/value-check": "^1.6.2",
     "@rnacanvas/vectors": "^1.2.0"
   }
 }
