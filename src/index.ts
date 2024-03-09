@@ -4,6 +4,9 @@ export { Point };
 import { isPoint } from './isPoint';
 export { isPoint };
 
+import { isFinitePoint } from './isFinitePoint';
+export { isFinitePoint };
+
 import { deepCopy } from './deepCopy';
 export { deepCopy };
 
