@@ -1,6 +1,9 @@
 import { Point } from './Point';
 export { Point };
 
+import { deepCopy } from './deepCopy';
+export { deepCopy };
+
 import { distance } from './distance';
 export { distance };
 
