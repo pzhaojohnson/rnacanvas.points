@@ -10,6 +10,9 @@ export { areWithin };
 import { displacement } from './displacement';
 export { displacement };
 
+import { displaced } from './displaced';
+export { displaced };
+
 import { direction } from './direction';
 export { direction };
 
